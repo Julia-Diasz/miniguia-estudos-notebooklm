@@ -1,4 +1,4 @@
-<h1 align="center">Miniguia de Estudos com NotebookLM</h1>
+<h1 align="center">Caderno temático de Estudos com NotebookLM</h1>
 
 <p align="center">
   <img width="700" alt="Capa Investimentos" src="https://github.com/user-attachments/assets/1f175270-ceaa-40df-8ea0-526947833057" />
