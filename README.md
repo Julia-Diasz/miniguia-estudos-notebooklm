@@ -24,6 +24,10 @@ A proposta consistiu na criação de um caderno inteligente utilizando o <b>Note
 
 <h2>Sobre o Caderno</h2>
 
+<p align="center">
+  <img width="1551" height="769" alt="Captura de tela 2026-06-17 161811" src="https://github.com/user-attachments/assets/75cebb60-b5b8-4fb0-8921-23d7690c0051" />
+</p>
+
 <p>
 Este caderno foi desenvolvido com foco em conceitos introdutórios sobre investimentos, apresentando definições fundamentais, motivações para investir e os principais benefícios relacionados à construção de patrimônio e à educação financeira.
 </p>
