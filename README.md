@@ -1,153 +1,263 @@
-# Miniguia de Estudos com NotebookLM
+<h1 align="center">Miniguia de Estudos com NotebookLM</h1>
 
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image 17 de jun  de 2026, 15_02_15" src="https://github.com/user-attachments/assets/1f175270-ceaa-40df-8ea0-526947833057" />
+  <img width="700" alt="Capa Investimentos" src="https://github.com/user-attachments/assets/1f175270-ceaa-40df-8ea0-526947833057" />
 </p>
 
+<p align="center">
+  Projeto desenvolvido para o desafio da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa.
+</p>
 
-Sobre o desenvolvimento desse projeto
+<hr>
 
-Este projeto foi realizado voltado para o curso DIO: Bootcamp Bradesco - GenAI, Dados & Cyber. Neste, focamos no desenvolvimento de um "Caderno inteligente", utilizando o NootebookLM, adicionamos fontes sobre o assunto que desejamos, assim tyendo a possibildade de usufruir dessas diferentes fontes de diversas formas, desde uma convers com a ia, até a geração de slides, apresentações, audios, quizes e cartões de estudo. 
+<h2>Sobre o Desenvolvimento do Projeto</h2>
 
-Sobre o caderno
+<p>
+Este projeto foi desenvolvido como parte do <b>Bootcamp Bradesco - GenAI, Dados & Cyber</b>, promovido pela DIO.
+</p>
 
-Este caderno é voltdo aos assuntos introdutórios sobre investimento, incluindo conceitos básicos e motivações apresenmtando os diferentes pontoas positivios de realizalo. 
+<p>
+A proposta consistiu na criação de um caderno inteligente utilizando o <b>NotebookLM</b>, ferramenta baseada em Inteligência Artificial que permite reunir diferentes fontes de informação sobre um determinado tema. A partir dessas fontes, é possível interagir com a IA por meio de conversas, gerar resumos, apresentações, áudios, questionários e cartões de estudo, tornando o processo de aprendizagem mais dinâmico e organizado.
+</p>
 
-Tema escolhido 
+<hr>
 
-Introdução aos investimentos 
+<h2>Sobre o Caderno</h2>
 
-Objetivos deste caderno 
+<p>
+Este caderno foi desenvolvido com foco em conceitos introdutórios sobre investimentos, apresentando definições fundamentais, motivações para investir e os principais benefícios relacionados à construção de patrimônio e à educação financeira.
+</p>
 
-- Aprender conceitos básicos de investimento
-- continuar alimentando com novos conteúdos conforme desenvolve os conhcimentos
-- Desenvolver diferentes formas de aprendizado em uma única plataforma aumentado a praticidade
-- Desenvolver habilidades de criação de prompts e interpretação de respostas geradas por IA.
+<hr>
 
-Fontes utilizadas
+<h2>Tema Escolhido</h2>
 
-Fonte 1:
--
-- Nome: O que é investimento e como funciona? 
-- Link: https://euqueroinvestir.com/educacao-financeira/o-que-e-investimento-e-como-funciona
+<p><b>Introdução aos Investimentos</b></p>
 
-Fonte 2:
--
-- Nome: O que é investimento - e como começar a investir
-- Link: https://blog.nubank.com.br/investimento-o-que-e-como-comecar/
+<hr>
 
-Fonte 3:
--
-- Nome: Renda Fixa: o que é, como investir e quais as melhores aplicações
-- Link: https://exame.com/invest/guia/renda-fixa/
+<h2>Objetivos do Caderno</h2>
 
-Fonte 4:
--
-- Nome: O que é renda variável? Quais são os tipos, os riscos e como investir?
-- Link: https://economia.uol.com.br/guia-de-economia/o-que-e-renda-variavel-entenda-e-veja-como-investir.htm
+<ul>
+<li>Aprender conceitos básicos sobre investimentos;</li>
+<li>Continuar alimentando o caderno com novos conteúdos conforme o conhecimento for sendo ampliado;</li>
+<li>Explorar diferentes formas de aprendizagem em uma única plataforma, aumentando a praticidade dos estudos;</li>
+<li>Desenvolver habilidades de criação de prompts e interpretação de respostas geradas por Inteligência Artificial.</li>
+</ul>
 
-Fonte 5: 
--
-- Nome: O que é perfil de investidor e como ele influencia suas decisões? 
-- Link: https://www.suno.com.br/guias/perfil-do-investidor/
+<hr>
 
-Resultados obtidos 
+<h2>Fontes Utilizadas</h2>
 
-- Breve resumo sobre o assunto abordado:
+<table>
+<tr>
+<th>Fonte</th>
+<th>Título</th>
+<th>Link</th>
+</tr>
 
-    Investir consiste, de forma resumida, em alocar uma quantia de dinheiro hoje com a expectativa de transformá-la em um valor maior no futuro. Esse processo é fundamental para a construção de riqueza, proteção do poder de compra contra a inflação e alcance da independência financeira.
+<tr>
+<td>1</td>
+<td>O que é investimento e como funciona?</td>
+<td><a href="https://euqueroinvestir.com/educacao-financeira/o-que-e-investimento-e-como-funciona">Acessar</a></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>O que é investimento e como começar a investir</td>
+<td><a href="https://blog.nubank.com.br/investimento-o-que-e-como-comecar/">Acessar</a></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Renda Fixa: o que é, como investir e quais as melhores aplicações</td>
+<td><a href="https://exame.com/invest/guia/renda-fixa/">Acessar</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>O que é renda variável? Quais são os tipos, os riscos e como investir?</td>
+<td><a href="https://economia.uol.com.br/guia-de-economia/o-que-e-renda-variavel-entenda-e-veja-como-investir.htm">Acessar</a></td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>O que é perfil de investidor e como ele influencia suas decisões?</td>
+<td><a href="https://www.suno.com.br/guias/perfil-do-investidor/">Acessar</a></td>
+</tr>
+
+</table>
+
+<hr>
+
+<h1>Miniguia de Estudos</h1>
+
+<h2>Breve Resumo</h2>
+
+<p>
+Investir consiste em alocar uma quantia de dinheiro no presente com a expectativa de obter retornos financeiros no futuro. Essa prática é fundamental para a construção de patrimônio, proteção contra a inflação e alcance da independência financeira.
+</p>
+
+<h2>Resumo Estruturado dos Principais Conceitos</h2>
     
-    Resumo estruturado dos principais conceitos abordados nas fontes:
-    
-    1. Pilares do Investimento
-    
-    - Risco vs. Retorno: No mercado financeiro, o retorno de um ativo costuma ser proporcional ao seu risco; quanto maior o potencial de ganho, maior o risco de perda associado.
-    - Liquidez: Refere-se à facilidade e rapidez com que um investimento pode ser convertido novamente em dinheiro disponível.
-    - Reserva de Emergência: Antes de buscar ativos de maior risco, recomenda-se criar uma reserva equivalente a 6 ou 12 meses de despesas mensais em ativos de alta liquidez e segurança.
-    
-    2. Grandes Blocos de Ativos
-    
-    Os investimentos dividem-se basicamente em duas categorias:
-    
-    - Renda Fixa: Possui regras de remuneração definidas no momento da aplicação, oferecendo maior previsibilidade. Exemplos incluem Tesouro Direto (empréstimo ao governo), CDB (empréstimo a bancos), LCI/LCA (isentos de IR para pessoa física) e   Debêntures (empréstimo a empresas).
-    - Renda Variável: O retorno é imprevisível e o investidor pode ganhar ou perder dinheiro conforme as oscilações do mercado. Exemplos incluem Ações (frações de empresas), Fundos Imobiliários (FIIs), ETFs, Criptomoedas e Câmbio.
-    
-    3. Perfis de Investidor
-    
-    A identificação do perfil é feita pelo teste de suitability, que avalia a tolerância ao risco e objetivos:
-    
-    - Conservador: Prioriza a segurança e preservação do capital, preferindo a Renda Fixa.
-    - Moderado: Busca um equilíbrio entre segurança e rentabilidade, aceitando alguma oscilação para ganhos acima da média.
-    - Arrojado/Agressivo: Foca no crescimento do patrimônio a longo prazo e aceita alta volatilidade e riscos elevados.
-    
-    4. Estratégias Fundamentais
-    
-    Diversificação: Técnica de não "colocar todos os ovos na mesma cesta", distribuindo o dinheiro em diferentes tipos de ativos para reduzir riscos.
-    
-    - Longo Prazo: Investimentos em renda variável são mais indicados para prazos longos, pois historicamente tendem a superar a renda fixa e permitem a recuperação de quedas pontuais.
-    - Educação e Hábito: Investir deve se tornar um hábito regular, mesmo com pequenas quantias, e nunca se deve aplicar em produtos que não se compreenda totalmente.
-    
-    5. Tributação na Renda Fixa
-    
-    A maioria dos títulos de renda fixa segue uma tabela regressiva de Imposto de Renda, onde a alíquota diminui conforme o tempo de permanência: de 22,5% (até 180 dias) a 15% (acima de 720 dias). Além disso, há incidência de IOF para resgates feitos em menos de 30 dias.
+<h3>1. Pilares do Investimento</h3>
 
-- Glossário com principais conceitos aprendidos:
-
-    Conceitos Estruturais
-    - Investimento: O ato de alocar recursos financeiros (dinheiro) hoje com a expectativa de obter um retorno maior no futuro.
-    - Liquidez: Refere-se à facilidade e à velocidade com que um investidor consegue transformar um ativo novamente em dinheiro disponível na sua conta.
-    - Risco: A possibilidade de que o retorno esperado de uma aplicação não se concretize ou que haja perda parcial ou total do capital investido.
-    - Rentabilidade: É o retorno (lucro) obtido sobre o capital investido, podendo ser prefixada, pós-fixada ou híbrida.
-    - Diversificação: Estratégia de distribuir o patrimônio em diferentes classes de ativos para reduzir riscos, baseada na ideia de "não colocar todos os ovos na mesma cesta".
-    - Juros Compostos: Mecanismo onde os rendimentos são reinvestidos, gerando lucros sobre lucros, o que potencializa o aumento do patrimônio no longo prazo.
-    - Inflação (IPCA): Aumento generalizado de preços que corrói o poder de compra do dinheiro; investimentos buscam superar esse índice para garantir ganho real.
+<ul>
+<li><b>Risco vs. Retorno:</b> quanto maior o potencial de ganho, maior tende a ser o risco associado.</li>
+<li><b>Liquidez:</b> facilidade de converter um investimento em dinheiro.</li>
+<li><b>Reserva de Emergência:</b> valor destinado a situações inesperadas.</li>
+</ul>
     
-    Categorias de Ativos
-    - Renda Fixa: Investimento onde as regras de remuneração são definidas no momento da aplicação, oferecendo maior previsibilidade e segurança.
-    - Renda Variável: Classe onde o retorno é imprevisível e o valor do ativo oscila conforme as condições do mercado, empresas e economia.
+<h3>2. Grandes Categorias de Investimentos</h3>
+
+<h4>Renda Fixa</h4>
+
+<ul>
+<li>Tesouro Direto</li>
+<li>CDB</li>
+<li>LCI/LCA</li>
+<li>Debêntures</li>
+</ul>
+
+<h4>Renda Variável</h4>
+
+<ul>
+<li>Ações</li>
+<li>FIIs</li>
+<li>ETFs</li>
+<li>Criptomoedas</li>
+<li>Câmbio</li>
+</ul>
     
-    Tipos de Investimentos
-    - Ações: Frações do capital social de uma empresa; ao comprá-las, o investidor torna-se sócio da companhia.
-    - CDB (Certificado de Depósito Bancário): Título emitido por bancos para captar recursos, funcionando como um empréstimo do investidor para a instituição.
-    - Tesouro Direto: Programa que permite a compra de títulos públicos emitidos pelo governo federal.
-    - LCI/LCA: Letras de Crédito Imobiliário e do Agronegócio; títulos de renda fixa isentos de Imposto de Renda para pessoa física.
-    - FII (Fundos Imobiliários): Condomínios de investidores que aplicam em imóveis físicos ou títulos do setor imobiliário, distribuindo rendimentos periódicos aos cotistas.
-    - ETF (Exchange Traded Fund): Fundo negociado em bolsa que replica o desempenho de um índice (como o Ibovespa ou S&P 500).
-    - Debêntures: Títulos de dívida emitidos por empresas (não financeiras) para captar recursos para projetos.
+<h3>3. Perfil do Investidor</h3>
+
+<ul>
+<li><b>Conservador:</b> prioriza segurança.</li>
+<li><b>Moderado:</b> busca equilíbrio.</li>
+<li><b>Arrojado:</b> aceita maiores riscos.</li>
+</ul>
+
+<h3>4. Estratégias Fundamentais</h3>
+
+<ul>
+<li><b>Diversificação:</b> técnica de não "colocar todos os ovos na mesma cesta", distribuindo o dinheiro em diferentes tipos de ativos para reduzir riscos.</li>
+<li><b>Longo Prazo:</b> investimentos em renda variável são mais indicados para prazos longos, pois historicamente tendem a superar a renda fixa e permitem a recuperação de quedas pontuais.</li>
+<li><b>Educação e Hábito:</b> investir deve se tornar um hábito regular, mesmo com pequenas quantias, e nunca se deve aplicar em produtos que não se compreenda totalmente.</li>
+</ul>
+
+<h3>5. Tributação na Renda Fixa</h3>
+
+<ul>
+<li><b>Tabela Regressiva de IR:</b> a maioria dos títulos de renda fixa segue uma tabela regressiva de Imposto de Renda, em que a alíquota diminui conforme o tempo de permanência do investimento, variando de 22,5% (até 180 dias) a 15% (acima de 720 dias).</li>
+<li><b>IOF:</b> há incidência de Imposto sobre Operações Financeiras para resgates realizados em menos de 30 dias.</li>
+</ul>
     
-    Perfil e Regulamentação
-    - Suitability (Teste de Perfil): Análise técnica exigida por lei para identificar a tolerância ao risco e objetivos do investidor, classificando-o como Conservador, Moderado ou Arrojado.
-    - FGC (Fundo Garantidor de Créditos): Mecanismo de proteção que garante o ressarcimento de até R$ 250 mil por CPF e instituição em determinados ativos caso o banco decrete falência.
-    - CVM (Comissão de Valores Mobiliários): Órgão regulador que disciplina e fiscaliza o mercado de capitais no Brasil.
-    - CDI (Certificado de Depósito Interbancário): Taxa de juros praticada entre bancos, usada como principal referência de rentabilidade na renda fixa.
-    
-    Operações e Taxas
-    - Dividendo: Parcela do lucro de uma empresa ou fundo que é distribuída aos seus acionistas ou cotistas.
-    - Marcação a Mercado: Oscilação diária do preço de títulos de renda fixa antes do vencimento devido às mudanças nas taxas de juros.
-    - Tabela Regressiva de IR: Sistema de tributação onde a alíquota de imposto diminui conforme o tempo que o dinheiro fica investido (de 22,5% a 15%).
+<h2>Glossário com Principais Conceitos Aprendidos</h2>
 
- Conjunto de prompts reutilizáveis para apoiar futuras revisões sobre o tema
+<h3>Conceitos Estruturais</h3>
 
-   - Para resumos:
-   "Me entregue um resumo breve e estruturado sobre o assunto."
-  
-  - Para Explicações Simples:
-  "Me explique de maneira didática sobre o assunto, como se estivesse ensinando uma pessoa iniciante."
-  
-  - Para comparações:
-  "Compare renda fixa e renda variável, destacando vantagens, desvantagens e riscos."
-  
-  - Para aplicação prática:
-  "Como uma pessoa que está começando a investir pode aplicar os conceitos apresentados neste material?"
-  
-  - Para análise crítica:
-  "Identifique possíveis limitações ou riscos associados aos investimentos descritos nas fontes analisadas."
-  
-  - Para criação de planos de estudo:
-  "Crie um plano de estudos de 7 dias baseado nos principais tópicos abordados neste material."
+<ul>
+<li><b>Investimento:</b> ato de alocar recursos financeiros com a expectativa de obter retorno no futuro.</li>
+<li><b>Liquidez:</b> facilidade e velocidade com que um ativo pode ser convertido em dinheiro.</li>
+<li><b>Risco:</b> possibilidade de perda parcial ou total do capital investido.</li>
+<li><b>Rentabilidade:</b> retorno obtido sobre o capital investido.</li>
+<li><b>Diversificação:</b> estratégia de distribuir o patrimônio entre diferentes ativos para reduzir riscos.</li>
+<li><b>Juros Compostos:</b> mecanismo em que os rendimentos geram novos rendimentos ao longo do tempo.</li>
+<li><b>Inflação (IPCA):</b> aumento generalizado dos preços que reduz o poder de compra do dinheiro.</li>
+</ul>
 
+<h3>Categorias de Ativos</h3>
 
-Conclusão
+<ul>
+<li><b>Renda Fixa:</b> investimento com regras de remuneração definidas previamente.</li>
+<li><b>Renda Variável:</b> investimento sujeito às oscilações do mercado.</li>
+</ul>
 
-Em suma torna-se possível compreender melhor e de maneira mais dinÂmica sobre o determinado assunto que o utilizador da plataforma deseja aprender e "alimentar" o bloco de notas com tal conteúdo. Apraticidade em poder encontrar diferntes maneiras e dinamicas de aprendizado, assim como a possibilidade de questionar as dúvidas que possui em especifico. Possibilitam uma melhoria na faclidade para o aprendizado. A utilização do notebooklm através de fontes que deseje, redu as probabilidades de alucinações, já que o caderno e a IA conida no mesmo, se alimenta somente do conteudo injetado, não indo além do que deseja em especifico. 
- 
+<h3>Tipos de Investimentos</h3>
+
+<ul>
+<li><b>Ações:</b> frações do capital social de uma empresa.</li>
+<li><b>CDB:</b> Certificado de Depósito Bancário emitido por bancos para captação de recursos.</li>
+<li><b>Tesouro Direto:</b> programa de compra de títulos públicos emitidos pelo Governo Federal.</li>
+<li><b>LCI/LCA:</b> Letras de Crédito Imobiliário e do Agronegócio, isentas de Imposto de Renda para pessoa física.</li>
+<li><b>FII:</b> Fundos de Investimento Imobiliário.</li>
+<li><b>ETF:</b> fundo negociado em bolsa que replica o desempenho de um índice.</li>
+<li><b>Debêntures:</b> títulos de dívida emitidos por empresas.</li>
+</ul>
+
+<h3>Perfil e Regulamentação</h3>
+
+<ul>
+<li><b>Suitability:</b> teste utilizado para identificar a tolerância ao risco e os objetivos do investidor.</li>
+<li><b>FGC:</b> Fundo Garantidor de Créditos.</li>
+<li><b>CVM:</b> Comissão de Valores Mobiliários.</li>
+<li><b>CDI:</b> taxa de referência utilizada em diversos investimentos de renda fixa.</li>
+</ul>
+
+<h3>Operações e Taxas</h3>
+
+<ul>
+<li><b>Dividendo:</b> parcela do lucro distribuída aos acionistas ou cotistas.</li>
+<li><b>Marcação a Mercado:</b> atualização diária do valor dos ativos conforme as condições do mercado.</li>
+<li><b>Tabela Regressiva de IR:</b> sistema em que a alíquota do imposto diminui conforme o tempo da aplicação.</li>
+</ul>
+
+<hr>
+
+<h2>Conjunto de Prompts Reutilizáveis para Futuras Revisões</h2>
+
+<h3>Resumo</h3>
+
+<blockquote>
+Me entregue um resumo breve e estruturado sobre o assunto.
+</blockquote>
+
+<h3>Explicação Simplificada</h3>
+
+<blockquote>
+Me explique de maneira didática sobre o assunto, como se estivesse ensinando uma pessoa iniciante.
+</blockquote>
+
+<h3>Comparação</h3>
+
+<blockquote>
+Compare renda fixa e renda variável, destacando vantagens, desvantagens e riscos.
+</blockquote>
+
+<h3>Aplicação Prática</h3>
+
+<blockquote>
+Como uma pessoa que está começando a investir pode aplicar os conceitos apresentados neste material?
+</blockquote>
+
+<h3>Análise Crítica</h3>
+
+<blockquote>
+Identifique possíveis limitações ou riscos associados aos investimentos descritos nas fontes analisadas.
+</blockquote>
+
+<h3>Plano de Estudos</h3>
+
+<blockquote>
+Crie um plano de estudos de 7 dias baseado nos principais tópicos abordados neste material.
+</blockquote>
+
+<hr>
+
+<h2>Conclusão</h2>
+
+<p>
+A utilização do NotebookLM possibilita compreender diferentes assuntos de forma mais dinâmica e organizada, permitindo que o usuário reúna conteúdos de interesse em um único ambiente de estudo.
+</p>
+
+<p>
+A praticidade de acessar diferentes formas de aprendizado, como resumos, questionários, apresentações e interações por meio da Inteligência Artificial, contribui significativamente para a construção do conhecimento.
+</p>
+
+<p>
+Além disso, a possibilidade de realizar perguntas específicas sobre o conteúdo estudado favorece a resolução de dúvidas e o aprofundamento dos temas abordados.
+</p>
+
+<p>
+Por utilizar fontes previamente selecionadas pelo usuário, o NotebookLM contribui para manter as respostas alinhadas ao material estudado, favorecendo análises mais contextualizadas e direcionadas ao tema de interesse.
+</p>
